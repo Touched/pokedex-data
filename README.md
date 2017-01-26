@@ -36,7 +36,7 @@ Saved as `sprite.png`. This is a 64x256 or 128x256 RGBA PNG image that contains 
 
 If the image is 128x256, the lower strip contains the female variation sprites. This strip does not contain the shiny images.
 
-![Sprite Sheet with Female variation (Bulbasaur)](https://raw.githubusercontent.com/Touched/pokedex-data/master/data/bulbasaur/sprite.png)
+![Sprite Sheet with Female variation (Venusaur)](https://raw.githubusercontent.com/Touched/pokedex-data/master/data/venusaur/sprite.png)
 
 ## Credits
 
