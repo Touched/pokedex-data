@@ -14,7 +14,15 @@ The subdirectory contains the data for that forme. If a file is missing, then it
 
 ### Party Icons
 
-Saved as `icon.png`. This is a 32x64 indexed (4bpp) PNG image that contains both frames for the party icon. The palette must be one of the 3 available icon palettes.
+Saved as `icon.png`. This is a 32x64 indexed (4bpp) PNG image that contains both frames for the party icon.
+
+![Bulbasaur Icon](https://raw.githubusercontent.com/Touched/pokedex-data/master/data/bulbasaur/icon.png)
+
+The palette must be one of the 3 available icon palettes:
+
+![Palette 0](https://raw.githubusercontent.com/Touched/pokedex-data/master/images/icon_palettes/0.png)
+![Palette 1](https://raw.githubusercontent.com/Touched/pokedex-data/master/images/icon_palettes/1.png)
+![Palette 2](https://raw.githubusercontent.com/Touched/pokedex-data/master/images/icon_palettes/2.png)
 
 ### Cries
 
@@ -24,7 +32,11 @@ Saved as `cry.aif`. This is a AIFF file containing signed 8-bit mono PCM data sa
 
 Saved as `sprite.png`. This is a 64x256 or 128x256 RGBA PNG image that contains the front and backsprites for the Pokémon. It contains the front sprite, shiny front sprite, back sprite and shiny back sprite in that order, overlayed on a transparent background.
 
+![Sprite Sheet (Bulbasaur)](https://raw.githubusercontent.com/Touched/pokedex-data/master/data/bulbasaur/sprite.png)
+
 If the image is 128x256, the lower strip contains the female variation sprites. This strip does not contain the shiny images.
+
+![Sprite Sheet with Female variation (Bulbasaur)](https://raw.githubusercontent.com/Touched/pokedex-data/master/data/bulbasaur/sprite.png)
 
 ## Credits
 
