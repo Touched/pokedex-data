@@ -1,0 +1,348 @@
+{
+  "abomasnow": [
+    {
+      "forme": "abomasnowmega",
+      "item": "abomasite",
+      "type": "stone"
+    }
+  ],
+  "absol": [
+    {
+      "forme": "absolmega",
+      "item": "absolite",
+      "type": "stone"
+    }
+  ],
+  "aerodactyl": [
+    {
+      "forme": "aerodactylmega",
+      "item": "aerodactylite",
+      "type": "stone"
+    }
+  ],
+  "aggron": [
+    {
+      "forme": "aggronmega",
+      "item": "aggronite",
+      "type": "stone"
+    }
+  ],
+  "alakazam": [
+    {
+      "forme": "alakazammega",
+      "item": "alakazite",
+      "type": "stone"
+    }
+  ],
+  "altaria": [
+    {
+      "forme": "altariamega",
+      "item": "altarianite",
+      "type": "stone"
+    }
+  ],
+  "ampharos": [
+    {
+      "forme": "ampharosmega",
+      "item": "ampharosite",
+      "type": "stone"
+    }
+  ],
+  "audino": [
+    {
+      "forme": "audinomega",
+      "item": "audinite",
+      "type": "stone"
+    }
+  ],
+  "banette": [
+    {
+      "forme": "banettemega",
+      "item": "banettite",
+      "type": "stone"
+    }
+  ],
+  "beedrill": [
+    {
+      "forme": "beedrillmega",
+      "item": "beedrillite",
+      "type": "stone"
+    }
+  ],
+  "blastoise": [
+    {
+      "forme": "blastoisemega",
+      "item": "blastoisinite",
+      "type": "stone"
+    }
+  ],
+  "blaziken": [
+    {
+      "forme": "blazikenmega",
+      "item": "blazikenite",
+      "type": "stone"
+    }
+  ],
+  "camerupt": [
+    {
+      "forme": "cameruptmega",
+      "item": "cameruptite",
+      "type": "stone"
+    }
+  ],
+  "charizard": [
+    {
+      "forme": "charizardmegax",
+      "item": "charizarditex",
+      "type": "stone"
+    },
+    {
+      "forme": "charizardmegay",
+      "item": "charizarditey",
+      "type": "stone"
+    }
+  ],
+  "diancie": [
+    {
+      "forme": "dianciemega",
+      "item": "diancite",
+      "type": "stone"
+    }
+  ],
+  "gallade": [
+    {
+      "forme": "gallademega",
+      "item": "galladite",
+      "type": "stone"
+    }
+  ],
+  "garchomp": [
+    {
+      "forme": "garchompmega",
+      "item": "garchompite",
+      "type": "stone"
+    }
+  ],
+  "gardevoir": [
+    {
+      "forme": "gardevoirmega",
+      "item": "gardevoirite",
+      "type": "stone"
+    }
+  ],
+  "gengar": [
+    {
+      "forme": "gengarmega",
+      "item": "gengarite",
+      "type": "stone"
+    }
+  ],
+  "glalie": [
+    {
+      "forme": "glaliemega",
+      "item": "glalitite",
+      "type": "stone"
+    }
+  ],
+  "groudon": [
+    {
+      "forme": "groudonprimal",
+      "item": "redorb",
+      "type": "orb"
+    }
+  ],
+  "gyarados": [
+    {
+      "forme": "gyaradosmega",
+      "item": "gyaradosite",
+      "type": "stone"
+    }
+  ],
+  "heracross": [
+    {
+      "forme": "heracrossmega",
+      "item": "heracronite",
+      "type": "stone"
+    }
+  ],
+  "houndoom": [
+    {
+      "forme": "houndoommega",
+      "item": "houndoominite",
+      "type": "stone"
+    }
+  ],
+  "kangaskhan": [
+    {
+      "forme": "kangaskhanmega",
+      "item": "kangaskhanite",
+      "type": "stone"
+    }
+  ],
+  "kyorge": [
+    {
+      "forme": "kyogreprimal",
+      "item": "blueorb",
+      "type": "orb"
+    }
+  ],
+  "latias": [
+    {
+      "forme": "latiasmega",
+      "item": "latiasite",
+      "type": "stone"
+    }
+  ],
+  "latios": [
+    {
+      "forme": "latiosmega",
+      "item": "latiosite",
+      "type": "stone"
+    }
+  ],
+  "lopunny": [
+    {
+      "forme": "lopunnymega",
+      "item": "lopunnite",
+      "type": "stone"
+    }
+  ],
+  "lucario": [
+    {
+      "forme": "lucariomega",
+      "item": "lucarionite",
+      "type": "stone"
+    }
+  ],
+  "manectric": [
+    {
+      "forme": "manectricmega",
+      "item": "manectite",
+      "type": "stone"
+    }
+  ],
+  "mawile": [
+    {
+      "forme": "mawilemega",
+      "item": "mawilite",
+      "type": "stone"
+    }
+  ],
+  "medicham": [
+    {
+      "forme": "medichammega",
+      "item": "medichamite",
+      "type": "stone"
+    }
+  ],
+  "metagross": [
+    {
+      "forme": "metagrossmega",
+      "item": "metagrossite",
+      "type": "stone"
+    }
+  ],
+  "mewtwo": [
+    {
+      "forme": "mewtwomegax",
+      "item": "mewtwonitex",
+      "type": "stone"
+    },
+    {
+      "forme": "mewtwomegay",
+      "item": "mewtwonitey",
+      "type": "stone"
+    }
+  ],
+  "pidgeot": [
+    {
+      "forme": "pidgeotmega",
+      "item": "pidgeotite",
+      "type": "stone"
+    }
+  ],
+  "pinsir": [
+    {
+      "forme": "pinsirmega",
+      "item": "pinsirite",
+      "type": "stone"
+    }
+  ],
+  "rayquaza": [
+    {
+      "forme": "rayquazamega",
+      "move": "dragonascent",
+      "type": "move"
+    }
+  ],
+  "sableye": [
+    {
+      "forme": "sableyemega",
+      "item": "sablenite",
+      "type": "stone"
+    }
+  ],
+  "salamence": [
+    {
+      "forme": "salamencemega",
+      "item": "salamencite",
+      "type": "stone"
+    }
+  ],
+  "sceptile": [
+    {
+      "forme": "sceptilemega",
+      "item": "sceptilite",
+      "type": "stone"
+    }
+  ],
+  "scizor": [
+    {
+      "forme": "scizormega",
+      "item": "scizorite",
+      "type": "stone"
+    }
+  ],
+  "sharpedo": [
+    {
+      "forme": "sharpedomega",
+      "item": "sharpedonite",
+      "type": "stone"
+    }
+  ],
+  "slowbro": [
+    {
+      "forme": "slowbromega",
+      "item": "slowbronite",
+      "type": "stone"
+    }
+  ],
+  "steelix": [
+    {
+      "forme": "steelixmega",
+      "item": "steelixite",
+      "type": "stone"
+    }
+  ],
+  "swampert": [
+    {
+      "forme": "swampertmega",
+      "item": "swampertite",
+      "type": "stone"
+    }
+  ],
+  "tyranitar": [
+    {
+      "forme": "tyranitarmega",
+      "item": "tyranitarite",
+      "type": "stone"
+    }
+  ],
+  "venusaur": [
+    {
+      "forme": "venusaurmega",
+      "item": "venusaurite",
+      "type": "stone"
+    }
+  ]
+}

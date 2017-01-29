@@ -1,0 +1,38 @@
+{
+  "chansey": {
+    "item": "luckincense",
+    "pokemon": "happiny"
+  },
+  "chimecho": {
+    "item": "pureincense",
+    "pokemon": "chingling"
+  },
+  "mantine": {
+    "item": "waveincense",
+    "pokemon": "mantyke"
+  },
+  "marill": {
+    "item": "seaincense",
+    "pokemon": "azurill"
+  },
+  "mrmime": {
+    "item": "oddincense",
+    "pokemon": "mimejr"
+  },
+  "roselia": {
+    "item": "roseincense",
+    "pokemon": "budew"
+  },
+  "snorlax": {
+    "item": "fullincense",
+    "pokemon": "munchlax"
+  },
+  "sudowoodo": {
+    "item": "rockincense",
+    "pokemon": "bonsly"
+  },
+  "wobbuffet": {
+    "item": "laxincense",
+    "pokemon": "wynaut"
+  }
+}

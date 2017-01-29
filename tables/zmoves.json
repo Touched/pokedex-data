@@ -1,0 +1,133 @@
+{
+  "aciddownpour": {
+    "item": "poisoniumz",
+    "type": "Poison"
+  },
+  "alloutpummeling": {
+    "item": "fightiniumz",
+    "type": "Fighting"
+  },
+  "blackholeeclipse": {
+    "item": "darkiniumz",
+    "type": "Dark"
+  },
+  "bloomdoom": {
+    "item": "grassiumz",
+    "type": "Grass"
+  },
+  "breakneckblitz": {
+    "item": "normaliumz",
+    "type": "Normal"
+  },
+  "catastropika": {
+    "item": "pikaniumz",
+    "move": "Volt Tackle",
+    "users": [
+      "Pikachu"
+    ]
+  },
+  "continentalcrush": {
+    "item": "rockiumz",
+    "type": "Rock"
+  },
+  "corkscrewcrash": {
+    "item": "steeliumz",
+    "type": "Steel"
+  },
+  "devastatingdrake": {
+    "item": "dragoniumz",
+    "type": "Dragon"
+  },
+  "extremeevoboost": {
+    "item": "eeviumz",
+    "move": "Last Resort",
+    "users": [
+      "Eevee"
+    ]
+  },
+  "gigavolthavoc": {
+    "item": "electriumz",
+    "type": "Electric"
+  },
+  "guardianofalola": {
+    "item": "tapuniumz",
+    "move": "Nature's Madness",
+    "users": [
+      "Tapu Koko",
+      "Tapu Lele",
+      "Tapu Bulu",
+      "Tapu Fini"
+    ]
+  },
+  "hydrovortex": {
+    "item": "wateriumz",
+    "type": "Water"
+  },
+  "infernooverdrive": {
+    "item": "firiumz",
+    "type": "Fire"
+  },
+  "maliciousmoonsault": {
+    "item": "inciniumz",
+    "move": "Darkest Lariat",
+    "users": [
+      "Incineroar"
+    ]
+  },
+  "neverendingnightmare": {
+    "item": "ghostiumz",
+    "type": "Ghost"
+  },
+  "oceanicoperetta": {
+    "item": "primariumz",
+    "move": "Sparkling Aria",
+    "users": [
+      "Primarina"
+    ]
+  },
+  "pulverizingpancake": {
+    "item": "snorliumz",
+    "move": "Giga Impact",
+    "users": [
+      "Snorlax"
+    ]
+  },
+  "savagespinout": {
+    "item": "buginiumz",
+    "type": "Bug"
+  },
+  "shatteredpsyche": {
+    "item": "psychiumz",
+    "type": "Psychic"
+  },
+  "sinisterarrowraid": {
+    "item": "decidiumz",
+    "move": "Spirit Shackle",
+    "users": [
+      "Decidueye"
+    ]
+  },
+  "stokedsparksurfer": {
+    "item": "aloraichiumz",
+    "move": "Thunderbolt",
+    "users": [
+      "Raichu-Alola"
+    ]
+  },
+  "subzeroslammer": {
+    "item": "iciumz",
+    "type": "Ice"
+  },
+  "supersonicskystrike": {
+    "item": "flyiniumz",
+    "type": "Flying"
+  },
+  "tectonicrage": {
+    "item": "groundiumz",
+    "type": "Ground"
+  },
+  "twinkletackle": {
+    "item": "fairiumz",
+    "type": "Fairy"
+  }
+}

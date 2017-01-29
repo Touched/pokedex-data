@@ -1,0 +1,4837 @@
+{
+  "abomasnow": [],
+  "abomasnowmega": [],
+  "abra": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "kadabra",
+      "trigger": "level"
+    }
+  ],
+  "absol": [],
+  "absolmega": [],
+  "accelgor": [],
+  "aegislash": [],
+  "aegislashblade": [],
+  "aerodactyl": [],
+  "aerodactylmega": [],
+  "aggron": [],
+  "aggronmega": [],
+  "aipom": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "doublehit"
+      },
+      "forme": null,
+      "species": "ambipom",
+      "trigger": "level"
+    }
+  ],
+  "alakazam": [],
+  "alakazammega": [],
+  "alomomola": [],
+  "altaria": [],
+  "altariamega": [],
+  "amaura": [
+    {
+      "conditions": {
+        "level": 39,
+        "time": "night"
+      },
+      "forme": null,
+      "species": "aurorus",
+      "trigger": "level"
+    }
+  ],
+  "ambipom": [],
+  "amoonguss": [],
+  "ampharos": [],
+  "ampharosmega": [],
+  "anorith": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "armaldo",
+      "trigger": "level"
+    }
+  ],
+  "araquanid": [],
+  "arbok": [],
+  "arcanine": [],
+  "arceus": [],
+  "arceusbug": [],
+  "arceusdark": [],
+  "arceusdragon": [],
+  "arceuselectric": [],
+  "arceusfairy": [],
+  "arceusfighting": [],
+  "arceusfire": [],
+  "arceusflying": [],
+  "arceusghost": [],
+  "arceusgrass": [],
+  "arceusground": [],
+  "arceusice": [],
+  "arceuspoison": [],
+  "arceuspsychic": [],
+  "arceusrock": [],
+  "arceussteel": [],
+  "arceuswater": [],
+  "archen": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "archeops",
+      "trigger": "level"
+    }
+  ],
+  "archeops": [],
+  "ariados": [],
+  "armaldo": [],
+  "aromatisse": [],
+  "aron": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "lairon",
+      "trigger": "level"
+    }
+  ],
+  "articuno": [],
+  "audino": [],
+  "audinomega": [],
+  "aurorus": [],
+  "avalugg": [],
+  "axew": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "fraxure",
+      "trigger": "level"
+    }
+  ],
+  "azelf": [],
+  "azumarill": [],
+  "azurill": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "marill",
+      "trigger": "level"
+    }
+  ],
+  "bagon": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "shelgon",
+      "trigger": "level"
+    }
+  ],
+  "baltoy": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "claydol",
+      "trigger": "level"
+    }
+  ],
+  "banette": [],
+  "banettemega": [],
+  "barbaracle": [],
+  "barboach": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "whiscash",
+      "trigger": "level"
+    }
+  ],
+  "basculin": [],
+  "basculinbluestriped": [],
+  "bastiodon": [],
+  "bayleef": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "meganium",
+      "trigger": "level"
+    }
+  ],
+  "beartic": [],
+  "beautifly": [],
+  "beedrill": [],
+  "beedrillmega": [],
+  "beheeyem": [],
+  "beldum": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "metang",
+      "trigger": "level"
+    }
+  ],
+  "bellossom": [],
+  "bellsprout": [
+    {
+      "conditions": {
+        "level": 21
+      },
+      "forme": null,
+      "species": "weepinbell",
+      "trigger": "level"
+    }
+  ],
+  "bergmite": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "avalugg",
+      "trigger": "level"
+    }
+  ],
+  "bewear": [],
+  "bibarel": [],
+  "bidoof": [
+    {
+      "conditions": {
+        "level": 15
+      },
+      "forme": null,
+      "species": "bibarel",
+      "trigger": "level"
+    }
+  ],
+  "binacle": [
+    {
+      "conditions": {
+        "level": 39
+      },
+      "forme": null,
+      "species": "barbaracle",
+      "trigger": "level"
+    }
+  ],
+  "bisharp": [],
+  "blastoise": [],
+  "blastoisemega": [],
+  "blaziken": [],
+  "blazikenmega": [],
+  "blissey": [],
+  "blitzle": [
+    {
+      "conditions": {
+        "level": 27
+      },
+      "forme": null,
+      "species": "zebstrika",
+      "trigger": "level"
+    }
+  ],
+  "boldore": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "gigalith",
+      "trigger": "trade"
+    }
+  ],
+  "bonsly": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "mimic"
+      },
+      "forme": null,
+      "species": "sudowoodo",
+      "trigger": "level"
+    }
+  ],
+  "bouffalant": [],
+  "bounsweet": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "steenee",
+      "trigger": "level"
+    }
+  ],
+  "braixen": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "delphox",
+      "trigger": "level"
+    }
+  ],
+  "braviary": [],
+  "breloom": [],
+  "brionne": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "primarina",
+      "trigger": "level"
+    }
+  ],
+  "bronzong": [],
+  "bronzor": [
+    {
+      "conditions": {
+        "level": 33
+      },
+      "forme": null,
+      "species": "bronzong",
+      "trigger": "level"
+    }
+  ],
+  "bruxish": [],
+  "budew": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "roselia",
+      "trigger": "level"
+    }
+  ],
+  "buizel": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": null,
+      "species": "floatzel",
+      "trigger": "level"
+    }
+  ],
+  "bulbasaur": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "ivysaur",
+      "trigger": "level"
+    }
+  ],
+  "buneary": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "lopunny",
+      "trigger": "level"
+    }
+  ],
+  "bunnelby": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "diggersby",
+      "trigger": "level"
+    }
+  ],
+  "burmy": [
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 20
+      },
+      "forme": null,
+      "species": "wormadam",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "male",
+        "level": 20
+      },
+      "forme": null,
+      "species": "mothim",
+      "trigger": "level"
+    }
+  ],
+  "burmysandy": [
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 20
+      },
+      "forme": "wormadamsandy",
+      "species": "wormadam",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "male",
+        "level": 20
+      },
+      "forme": null,
+      "species": "mothim",
+      "trigger": "level"
+    }
+  ],
+  "burmytrash": [
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 20
+      },
+      "forme": "wormadamtrash",
+      "species": "wormadam",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "male",
+        "level": 20
+      },
+      "forme": null,
+      "species": "mothim",
+      "trigger": "level"
+    }
+  ],
+  "butterfree": [],
+  "buzzwole": [],
+  "cacnea": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "cacturne",
+      "trigger": "level"
+    }
+  ],
+  "cacturne": [],
+  "camerupt": [],
+  "cameruptmega": [],
+  "carbink": [],
+  "carnivine": [],
+  "carracosta": [],
+  "carvanha": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "sharpedo",
+      "trigger": "level"
+    }
+  ],
+  "cascoon": [
+    {
+      "conditions": {
+        "level": 10
+      },
+      "forme": null,
+      "species": "dustox",
+      "trigger": "level"
+    }
+  ],
+  "castform": [],
+  "castformrainy": [],
+  "castformsnowy": [],
+  "castformsunny": [],
+  "caterpie": [
+    {
+      "conditions": {
+        "level": 7
+      },
+      "forme": null,
+      "species": "metapod",
+      "trigger": "level"
+    }
+  ],
+  "celebi": [],
+  "celesteela": [],
+  "chandelure": [],
+  "chansey": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "blissey",
+      "trigger": "level"
+    }
+  ],
+  "charizard": [],
+  "charizardmegax": [],
+  "charizardmegay": [],
+  "charjabug": [
+    {
+      "conditions": {
+        "level": 0,
+        "location": "magneticfield"
+      },
+      "forme": null,
+      "species": "vikavolt",
+      "trigger": "level"
+    }
+  ],
+  "charmander": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "charmeleon",
+      "trigger": "level"
+    }
+  ],
+  "charmeleon": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "charizard",
+      "trigger": "level"
+    }
+  ],
+  "chatot": [],
+  "cherrim": [],
+  "cherrimsunshine": [],
+  "cherubi": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "cherrim",
+      "trigger": "level"
+    }
+  ],
+  "chesnaught": [],
+  "chespin": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "quilladin",
+      "trigger": "level"
+    }
+  ],
+  "chikorita": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "bayleef",
+      "trigger": "level"
+    }
+  ],
+  "chimchar": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "monferno",
+      "trigger": "level"
+    }
+  ],
+  "chimecho": [],
+  "chinchou": [
+    {
+      "conditions": {
+        "level": 27
+      },
+      "forme": null,
+      "species": "lanturn",
+      "trigger": "level"
+    }
+  ],
+  "chingling": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0,
+        "time": "night"
+      },
+      "forme": null,
+      "species": "chimecho",
+      "trigger": "level"
+    }
+  ],
+  "cinccino": [],
+  "clamperl": [
+    {
+      "conditions": {
+        "item": "deepseatooth"
+      },
+      "forme": null,
+      "species": "huntail",
+      "trigger": "trade"
+    },
+    {
+      "conditions": {
+        "item": "deepseascale"
+      },
+      "forme": null,
+      "species": "gorebyss",
+      "trigger": "trade"
+    }
+  ],
+  "clauncher": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "clawitzer",
+      "trigger": "level"
+    }
+  ],
+  "clawitzer": [],
+  "claydol": [],
+  "clefable": [],
+  "clefairy": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "clefable",
+      "trigger": "item"
+    }
+  ],
+  "cleffa": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "clefairy",
+      "trigger": "level"
+    }
+  ],
+  "cloyster": [],
+  "cobalion": [],
+  "cofagrigus": [],
+  "combee": [
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 21
+      },
+      "forme": null,
+      "species": "vespiquen",
+      "trigger": "level"
+    }
+  ],
+  "combusken": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "blaziken",
+      "trigger": "level"
+    }
+  ],
+  "comfey": [],
+  "conkeldurr": [],
+  "corphish": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "crawdaunt",
+      "trigger": "level"
+    }
+  ],
+  "corsola": [],
+  "cosmoem": [
+    {
+      "conditions": {
+        "level": 53,
+        "version": "sun"
+      },
+      "forme": null,
+      "species": "solgaleo",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 53,
+        "version": "moon"
+      },
+      "forme": null,
+      "species": "lunala",
+      "trigger": "level"
+    }
+  ],
+  "cosmog": [
+    {
+      "conditions": {
+        "level": 43
+      },
+      "forme": null,
+      "species": "cosmoem",
+      "trigger": "level"
+    }
+  ],
+  "cottonee": [
+    {
+      "conditions": {
+        "item": "sunstone"
+      },
+      "forme": null,
+      "species": "whimsicott",
+      "trigger": "item"
+    }
+  ],
+  "crabominable": [],
+  "crabrawler": [
+    {
+      "conditions": {
+        "level": 0,
+        "location": "mountlanakila"
+      },
+      "forme": null,
+      "species": "crabominable",
+      "trigger": "level"
+    }
+  ],
+  "cradily": [],
+  "cranidos": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "rampardos",
+      "trigger": "level"
+    }
+  ],
+  "crawdaunt": [],
+  "cresselia": [],
+  "croagunk": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "toxicroak",
+      "trigger": "level"
+    }
+  ],
+  "crobat": [],
+  "croconaw": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "feraligatr",
+      "trigger": "level"
+    }
+  ],
+  "crustle": [],
+  "cryogonal": [],
+  "cubchoo": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "beartic",
+      "trigger": "level"
+    }
+  ],
+  "cubone": [
+    {
+      "conditions": {
+        "level": 28,
+        "time": "night"
+      },
+      "forme": "marowakalola",
+      "species": "marowak",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "marowak",
+      "trigger": "level"
+    }
+  ],
+  "cutiefly": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "ribombee",
+      "trigger": "level"
+    }
+  ],
+  "cyndaquil": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "quilava",
+      "trigger": "level"
+    }
+  ],
+  "darkrai": [],
+  "darmanitan": [],
+  "darmanitanzen": [],
+  "dartrix": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "decidueye",
+      "trigger": "level"
+    }
+  ],
+  "darumaka": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "darmanitan",
+      "trigger": "level"
+    }
+  ],
+  "decidueye": [],
+  "dedenne": [],
+  "deerling": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "sawsbuck",
+      "trigger": "level"
+    }
+  ],
+  "deerlingautumn": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": "sawsbuckautumn",
+      "species": "sawsbuck",
+      "trigger": "level"
+    }
+  ],
+  "deerlingsummer": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": "sawsbucksummer",
+      "species": "sawsbuck",
+      "trigger": "level"
+    }
+  ],
+  "deerlingwinter": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": "sawsbuckwinter",
+      "species": "sawsbuck",
+      "trigger": "level"
+    }
+  ],
+  "deino": [
+    {
+      "conditions": {
+        "level": 50
+      },
+      "forme": null,
+      "species": "zweilous",
+      "trigger": "level"
+    }
+  ],
+  "delcatty": [],
+  "delibird": [],
+  "delphox": [],
+  "deoxys": [],
+  "deoxysattack": [],
+  "deoxysdefense": [],
+  "deoxysspeed": [],
+  "dewgong": [],
+  "dewott": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "samurott",
+      "trigger": "level"
+    }
+  ],
+  "dewpider": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "araquanid",
+      "trigger": "level"
+    }
+  ],
+  "dhelmise": [],
+  "dialga": [],
+  "diancie": [],
+  "dianciemega": [],
+  "diggersby": [],
+  "diglett": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": null,
+      "species": "dugtrio",
+      "trigger": "level"
+    }
+  ],
+  "diglettalola": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": "dugtrioalola",
+      "species": "dugtrio",
+      "trigger": "level"
+    }
+  ],
+  "ditto": [],
+  "dodrio": [],
+  "doduo": [
+    {
+      "conditions": {
+        "level": 31
+      },
+      "forme": null,
+      "species": "dodrio",
+      "trigger": "level"
+    }
+  ],
+  "donphan": [],
+  "doublade": [
+    {
+      "conditions": {
+        "item": "duskstone"
+      },
+      "forme": null,
+      "species": "aegislash",
+      "trigger": "item"
+    }
+  ],
+  "dragalge": [],
+  "dragonair": [
+    {
+      "conditions": {
+        "level": 55
+      },
+      "forme": null,
+      "species": "dragonite",
+      "trigger": "level"
+    }
+  ],
+  "dragonite": [],
+  "drampa": [],
+  "drapion": [],
+  "dratini": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "dragonair",
+      "trigger": "level"
+    }
+  ],
+  "drifblim": [],
+  "drifloon": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "drifblim",
+      "trigger": "level"
+    }
+  ],
+  "drilbur": [
+    {
+      "conditions": {
+        "level": 31
+      },
+      "forme": null,
+      "species": "excadrill",
+      "trigger": "level"
+    }
+  ],
+  "drowzee": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": null,
+      "species": "hypno",
+      "trigger": "level"
+    }
+  ],
+  "druddigon": [],
+  "ducklett": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "swanna",
+      "trigger": "level"
+    }
+  ],
+  "dugtrio": [],
+  "dugtrioalola": [],
+  "dunsparce": [],
+  "duosion": [
+    {
+      "conditions": {
+        "level": 41
+      },
+      "forme": null,
+      "species": "reuniclus",
+      "trigger": "level"
+    }
+  ],
+  "durant": [],
+  "dusclops": [
+    {
+      "conditions": {
+        "item": "reapercloth"
+      },
+      "forme": null,
+      "species": "dusknoir",
+      "trigger": "trade"
+    }
+  ],
+  "dusknoir": [],
+  "duskull": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "dusclops",
+      "trigger": "level"
+    }
+  ],
+  "dustox": [],
+  "dwebble": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "crustle",
+      "trigger": "level"
+    }
+  ],
+  "eelektrik": [
+    {
+      "conditions": {
+        "item": "thunderstone"
+      },
+      "forme": null,
+      "species": "eelektross",
+      "trigger": "item"
+    }
+  ],
+  "eelektross": [],
+  "eevee": [
+    {
+      "conditions": {
+        "level": 0,
+        "location": "mossrock"
+      },
+      "forme": null,
+      "species": "leafeon",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 0,
+        "location": "icerock"
+      },
+      "forme": null,
+      "species": "glaceon",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "item": "thunderstone"
+      },
+      "forme": null,
+      "species": "jolteon",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "vaporeon",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "firestone"
+      },
+      "forme": null,
+      "species": "flareon",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "affection": 50,
+        "level": 0,
+        "movetype": "fairy"
+      },
+      "forme": null,
+      "species": "sylveon",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "espeon",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0,
+        "time": "night"
+      },
+      "forme": null,
+      "species": "umbreon",
+      "trigger": "level"
+    }
+  ],
+  "ekans": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "arbok",
+      "trigger": "level"
+    }
+  ],
+  "electabuzz": [
+    {
+      "conditions": {
+        "item": "electirizer"
+      },
+      "forme": null,
+      "species": "electivire",
+      "trigger": "trade"
+    }
+  ],
+  "electivire": [],
+  "electrike": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": null,
+      "species": "manectric",
+      "trigger": "level"
+    }
+  ],
+  "electrode": [],
+  "elekid": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "electabuzz",
+      "trigger": "level"
+    }
+  ],
+  "elgyem": [
+    {
+      "conditions": {
+        "level": 42
+      },
+      "forme": null,
+      "species": "beheeyem",
+      "trigger": "level"
+    }
+  ],
+  "emboar": [],
+  "emolga": [],
+  "empoleon": [],
+  "entei": [],
+  "escavalier": [],
+  "espeon": [],
+  "espurr": [
+    {
+      "conditions": {
+        "gender": "male",
+        "level": 25
+      },
+      "forme": null,
+      "species": "meowstic",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 25
+      },
+      "forme": "meowsticf",
+      "species": "meowstic",
+      "trigger": "level"
+    }
+  ],
+  "excadrill": [],
+  "exeggcute": [
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": "exeggutoralola",
+      "species": "exeggutor",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": null,
+      "species": "exeggutor",
+      "trigger": "item"
+    }
+  ],
+  "exeggutor": [],
+  "exeggutoralola": [],
+  "exploud": [],
+  "farfetchd": [],
+  "fearow": [],
+  "feebas": [
+    {
+      "conditions": {
+        "contest": {
+          "stat": "beauty",
+          "value": 170
+        },
+        "level": 0
+      },
+      "forme": null,
+      "species": "milotic",
+      "trigger": "level"
+    }
+  ],
+  "fennekin": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "braixen",
+      "trigger": "level"
+    }
+  ],
+  "feraligatr": [],
+  "ferroseed": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "ferrothorn",
+      "trigger": "level"
+    }
+  ],
+  "ferrothorn": [],
+  "finneon": [
+    {
+      "conditions": {
+        "level": 31
+      },
+      "forme": null,
+      "species": "lumineon",
+      "trigger": "level"
+    }
+  ],
+  "flaaffy": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "ampharos",
+      "trigger": "level"
+    }
+  ],
+  "flabebe": [
+    {
+      "conditions": {
+        "level": 19
+      },
+      "forme": null,
+      "species": "floette",
+      "trigger": "level"
+    }
+  ],
+  "flabebeblue": [
+    {
+      "conditions": {
+        "level": 19
+      },
+      "forme": "floetteblue",
+      "species": "floette",
+      "trigger": "level"
+    }
+  ],
+  "flabebeorange": [
+    {
+      "conditions": {
+        "level": 19
+      },
+      "forme": "floetteorange",
+      "species": "floette",
+      "trigger": "level"
+    }
+  ],
+  "flabebewhite": [
+    {
+      "conditions": {
+        "level": 19
+      },
+      "forme": "floettewhite",
+      "species": "floette",
+      "trigger": "level"
+    }
+  ],
+  "flabebeyellow": [
+    {
+      "conditions": {
+        "level": 19
+      },
+      "forme": "floetteyellow",
+      "species": "floette",
+      "trigger": "level"
+    }
+  ],
+  "flareon": [],
+  "fletchinder": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "talonflame",
+      "trigger": "level"
+    }
+  ],
+  "fletchling": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "fletchinder",
+      "trigger": "level"
+    }
+  ],
+  "floatzel": [],
+  "floette": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": null,
+      "species": "florges",
+      "trigger": "item"
+    }
+  ],
+  "floetteblue": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": "florgesblue",
+      "species": "florges",
+      "trigger": "item"
+    }
+  ],
+  "floetteeternal": [],
+  "floetteorange": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": "florgesorange",
+      "species": "florges",
+      "trigger": "item"
+    }
+  ],
+  "floettewhite": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": "florgeswhite",
+      "species": "florges",
+      "trigger": "item"
+    }
+  ],
+  "floetteyellow": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": "florgesyellow",
+      "species": "florges",
+      "trigger": "item"
+    }
+  ],
+  "florges": [],
+  "florgesblue": [],
+  "florgesorange": [],
+  "florgeswhite": [],
+  "florgesyellow": [],
+  "flygon": [],
+  "fomantis": [
+    {
+      "conditions": {
+        "level": 34,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "lurantis",
+      "trigger": "level"
+    }
+  ],
+  "foongus": [
+    {
+      "conditions": {
+        "level": 39
+      },
+      "forme": null,
+      "species": "amoonguss",
+      "trigger": "level"
+    }
+  ],
+  "forretress": [],
+  "fraxure": [
+    {
+      "conditions": {
+        "level": 48
+      },
+      "forme": null,
+      "species": "haxorus",
+      "trigger": "level"
+    }
+  ],
+  "frillish": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "jellicent",
+      "trigger": "level"
+    }
+  ],
+  "froakie": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "frogadier",
+      "trigger": "level"
+    }
+  ],
+  "frogadier": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "greninja",
+      "trigger": "level"
+    }
+  ],
+  "froslass": [],
+  "furfrou": [],
+  "furfroudandy": [],
+  "furfroudebutante": [],
+  "furfroudiamond": [],
+  "furfrouheart": [],
+  "furfroukabuki": [],
+  "furfroulareine": [],
+  "furfroumatron": [],
+  "furfroupharaoh": [],
+  "furfroustar": [],
+  "furret": [],
+  "gabite": [
+    {
+      "conditions": {
+        "level": 48
+      },
+      "forme": null,
+      "species": "garchomp",
+      "trigger": "level"
+    }
+  ],
+  "gallade": [],
+  "gallademega": [],
+  "galvantula": [],
+  "garbodor": [],
+  "garchomp": [],
+  "garchompmega": [],
+  "gardevoir": [],
+  "gardevoirmega": [],
+  "gastly": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "haunter",
+      "trigger": "level"
+    }
+  ],
+  "gastrodon": [],
+  "gastrodoneast": [],
+  "genesect": [],
+  "genesectburn": [],
+  "genesectchill": [],
+  "genesectdouse": [],
+  "genesectshock": [],
+  "gengar": [],
+  "gengarmega": [],
+  "geodude": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "graveler",
+      "trigger": "level"
+    }
+  ],
+  "geodudealola": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": "graveleralola",
+      "species": "graveler",
+      "trigger": "level"
+    }
+  ],
+  "gible": [
+    {
+      "conditions": {
+        "level": 24
+      },
+      "forme": null,
+      "species": "gabite",
+      "trigger": "level"
+    }
+  ],
+  "gigalith": [],
+  "girafarig": [],
+  "giratina": [],
+  "giratinaorigin": [],
+  "glaceon": [],
+  "glalie": [],
+  "glaliemega": [],
+  "glameow": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "purugly",
+      "trigger": "level"
+    }
+  ],
+  "gligar": [
+    {
+      "conditions": {
+        "item": "razorfang",
+        "level": 0,
+        "time": "night"
+      },
+      "forme": null,
+      "species": "gliscor",
+      "trigger": "level"
+    }
+  ],
+  "gliscor": [],
+  "gloom": [
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": null,
+      "species": "vileplume",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "sunstone"
+      },
+      "forme": null,
+      "species": "bellossom",
+      "trigger": "item"
+    }
+  ],
+  "gogoat": [],
+  "golbat": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "crobat",
+      "trigger": "level"
+    }
+  ],
+  "goldeen": [
+    {
+      "conditions": {
+        "level": 33
+      },
+      "forme": null,
+      "species": "seaking",
+      "trigger": "level"
+    }
+  ],
+  "golduck": [],
+  "golem": [],
+  "golemalola": [],
+  "golett": [
+    {
+      "conditions": {
+        "level": 43
+      },
+      "forme": null,
+      "species": "golurk",
+      "trigger": "level"
+    }
+  ],
+  "golisopod": [],
+  "golurk": [],
+  "goodra": [],
+  "goomy": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "sliggoo",
+      "trigger": "level"
+    }
+  ],
+  "gorebyss": [],
+  "gothita": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "gothorita",
+      "trigger": "level"
+    }
+  ],
+  "gothitelle": [],
+  "gothorita": [
+    {
+      "conditions": {
+        "level": 41
+      },
+      "forme": null,
+      "species": "gothitelle",
+      "trigger": "level"
+    }
+  ],
+  "gourgeist": [],
+  "gourgeistlarge": [],
+  "gourgeistsmall": [],
+  "gourgeistsuper": [],
+  "granbull": [],
+  "graveler": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "golem",
+      "trigger": "trade"
+    }
+  ],
+  "graveleralola": [
+    {
+      "conditions": {},
+      "forme": "golemalola",
+      "species": "golem",
+      "trigger": "trade"
+    }
+  ],
+  "greninja": [],
+  "greninjaash": [],
+  "grimer": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "muk",
+      "trigger": "level"
+    }
+  ],
+  "grimeralola": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": "mukalola",
+      "species": "muk",
+      "trigger": "level"
+    }
+  ],
+  "grotle": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "torterra",
+      "trigger": "level"
+    }
+  ],
+  "groudon": [],
+  "groudonprimal": [],
+  "grovyle": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "sceptile",
+      "trigger": "level"
+    }
+  ],
+  "growlithe": [
+    {
+      "conditions": {
+        "item": "firestone"
+      },
+      "forme": null,
+      "species": "arcanine",
+      "trigger": "item"
+    }
+  ],
+  "grubbin": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "charjabug",
+      "trigger": "level"
+    }
+  ],
+  "grumpig": [],
+  "gulpin": [
+    {
+      "conditions": {
+        "level": 26
+      },
+      "forme": null,
+      "species": "swalot",
+      "trigger": "level"
+    }
+  ],
+  "gumshoos": [],
+  "gurdurr": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "conkeldurr",
+      "trigger": "trade"
+    }
+  ],
+  "guzzlord": [],
+  "gyarados": [],
+  "gyaradosmega": [],
+  "hakamoo": [
+    {
+      "conditions": {
+        "level": 45
+      },
+      "forme": null,
+      "species": "kommoo",
+      "trigger": "level"
+    }
+  ],
+  "happiny": [
+    {
+      "conditions": {
+        "item": "ovalstone",
+        "level": 0,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "chansey",
+      "trigger": "level"
+    }
+  ],
+  "hariyama": [],
+  "haunter": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "gengar",
+      "trigger": "trade"
+    }
+  ],
+  "hawlucha": [],
+  "haxorus": [],
+  "heatmor": [],
+  "heatran": [],
+  "heliolisk": [],
+  "helioptile": [
+    {
+      "conditions": {
+        "item": "sunstone"
+      },
+      "forme": null,
+      "species": "heliolisk",
+      "trigger": "item"
+    }
+  ],
+  "heracross": [],
+  "heracrossmega": [],
+  "herdier": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "stoutland",
+      "trigger": "level"
+    }
+  ],
+  "hippopotas": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "hippowdon",
+      "trigger": "level"
+    }
+  ],
+  "hippowdon": [],
+  "hitmonchan": [],
+  "hitmonlee": [],
+  "hitmontop": [],
+  "honchkrow": [],
+  "honedge": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "doublade",
+      "trigger": "level"
+    }
+  ],
+  "hooh": [],
+  "hoopa": [],
+  "hoopaunbound": [],
+  "hoothoot": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "noctowl",
+      "trigger": "level"
+    }
+  ],
+  "hoppip": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "skiploom",
+      "trigger": "level"
+    }
+  ],
+  "horsea": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "seadra",
+      "trigger": "level"
+    }
+  ],
+  "houndoom": [],
+  "houndoommega": [],
+  "houndour": [
+    {
+      "conditions": {
+        "level": 24
+      },
+      "forme": null,
+      "species": "houndoom",
+      "trigger": "level"
+    }
+  ],
+  "huntail": [],
+  "hydreigon": [],
+  "hypno": [],
+  "igglybuff": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "jigglypuff",
+      "trigger": "level"
+    }
+  ],
+  "illumise": [],
+  "incineroar": [],
+  "infernape": [],
+  "inkay": [
+    {
+      "conditions": {
+        "level": 30,
+        "special": "malamar"
+      },
+      "forme": null,
+      "species": "malamar",
+      "trigger": "level"
+    }
+  ],
+  "ivysaur": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "venusaur",
+      "trigger": "level"
+    }
+  ],
+  "jangmoo": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "hakamoo",
+      "trigger": "level"
+    }
+  ],
+  "jellicent": [],
+  "jigglypuff": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "wigglytuff",
+      "trigger": "item"
+    }
+  ],
+  "jirachi": [],
+  "jolteon": [],
+  "joltik": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "galvantula",
+      "trigger": "level"
+    }
+  ],
+  "jumpluff": [],
+  "jynx": [],
+  "kabuto": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "kabutops",
+      "trigger": "level"
+    }
+  ],
+  "kabutops": [],
+  "kadabra": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "alakazam",
+      "trigger": "trade"
+    }
+  ],
+  "kakuna": [
+    {
+      "conditions": {
+        "level": 10
+      },
+      "forme": null,
+      "species": "beedrill",
+      "trigger": "level"
+    }
+  ],
+  "kangaskhan": [],
+  "kangaskhanmega": [],
+  "karrablast": [
+    {
+      "conditions": {
+        "swap": [
+          "shelmet",
+          "karrablast"
+        ]
+      },
+      "forme": null,
+      "species": "escavalier",
+      "trigger": "trade"
+    }
+  ],
+  "kartana": [],
+  "kecleon": [],
+  "keldeo": [],
+  "keldeoresolute": [],
+  "kingdra": [],
+  "kingler": [],
+  "kirlia": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "gardevoir",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "male",
+        "item": "dawnstone"
+      },
+      "forme": null,
+      "species": "gallade",
+      "trigger": "item"
+    }
+  ],
+  "klang": [
+    {
+      "conditions": {
+        "level": 49
+      },
+      "forme": null,
+      "species": "klinklang",
+      "trigger": "level"
+    }
+  ],
+  "klefki": [],
+  "klink": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "klang",
+      "trigger": "level"
+    }
+  ],
+  "klinklang": [],
+  "koffing": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "weezing",
+      "trigger": "level"
+    }
+  ],
+  "komala": [],
+  "kommoo": [],
+  "krabby": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "kingler",
+      "trigger": "level"
+    }
+  ],
+  "kricketot": [
+    {
+      "conditions": {
+        "level": 10
+      },
+      "forme": null,
+      "species": "kricketune",
+      "trigger": "level"
+    }
+  ],
+  "kricketune": [],
+  "krokorok": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "krookodile",
+      "trigger": "level"
+    }
+  ],
+  "krookodile": [],
+  "kyogre": [],
+  "kyogreprimal": [],
+  "kyurem": [],
+  "kyuremblack": [],
+  "kyuremwhite": [],
+  "lairon": [
+    {
+      "conditions": {
+        "level": 42
+      },
+      "forme": null,
+      "species": "aggron",
+      "trigger": "level"
+    }
+  ],
+  "lampent": [
+    {
+      "conditions": {
+        "item": "duskstone"
+      },
+      "forme": null,
+      "species": "chandelure",
+      "trigger": "item"
+    }
+  ],
+  "landorus": [],
+  "landorustherian": [],
+  "lanturn": [],
+  "lapras": [],
+  "larvesta": [
+    {
+      "conditions": {
+        "level": 59
+      },
+      "forme": null,
+      "species": "volcarona",
+      "trigger": "level"
+    }
+  ],
+  "larvitar": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "pupitar",
+      "trigger": "level"
+    }
+  ],
+  "latias": [],
+  "latiasmega": [],
+  "latios": [],
+  "latiosmega": [],
+  "leafeon": [],
+  "leavanny": [],
+  "ledian": [],
+  "ledyba": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "ledian",
+      "trigger": "level"
+    }
+  ],
+  "lickilicky": [],
+  "lickitung": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "rollout"
+      },
+      "forme": null,
+      "species": "lickilicky",
+      "trigger": "level"
+    }
+  ],
+  "liepard": [],
+  "lileep": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "cradily",
+      "trigger": "level"
+    }
+  ],
+  "lilligant": [],
+  "lillipup": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "herdier",
+      "trigger": "level"
+    }
+  ],
+  "linoone": [],
+  "litleo": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "pyroar",
+      "trigger": "level"
+    }
+  ],
+  "litten": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "torracat",
+      "trigger": "level"
+    }
+  ],
+  "litwick": [
+    {
+      "conditions": {
+        "level": 41
+      },
+      "forme": null,
+      "species": "lampent",
+      "trigger": "level"
+    }
+  ],
+  "lombre": [
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "ludicolo",
+      "trigger": "item"
+    }
+  ],
+  "lopunny": [],
+  "lopunnymega": [],
+  "lotad": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "lombre",
+      "trigger": "level"
+    }
+  ],
+  "loudred": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "exploud",
+      "trigger": "level"
+    }
+  ],
+  "lucario": [],
+  "lucariomega": [],
+  "ludicolo": [],
+  "lugia": [],
+  "lumineon": [],
+  "lunala": [],
+  "lunatone": [],
+  "lurantis": [],
+  "luvdisc": [],
+  "luxio": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "luxray",
+      "trigger": "level"
+    }
+  ],
+  "luxray": [],
+  "lycanroc": [],
+  "lycanrocmidnight": [],
+  "machamp": [],
+  "machoke": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "machamp",
+      "trigger": "trade"
+    }
+  ],
+  "machop": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "machoke",
+      "trigger": "level"
+    }
+  ],
+  "magby": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "magmar",
+      "trigger": "level"
+    }
+  ],
+  "magcargo": [],
+  "magearna": [],
+  "magikarp": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "gyarados",
+      "trigger": "level"
+    }
+  ],
+  "magmar": [
+    {
+      "conditions": {
+        "item": "magmarizer"
+      },
+      "forme": null,
+      "species": "magmortar",
+      "trigger": "trade"
+    }
+  ],
+  "magmortar": [],
+  "magnemite": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "magneton",
+      "trigger": "level"
+    }
+  ],
+  "magneton": [
+    {
+      "conditions": {
+        "level": 0,
+        "location": "magneticfield"
+      },
+      "forme": null,
+      "species": "magnezone",
+      "trigger": "level"
+    }
+  ],
+  "magnezone": [],
+  "makuhita": [
+    {
+      "conditions": {
+        "level": 24
+      },
+      "forme": null,
+      "species": "hariyama",
+      "trigger": "level"
+    }
+  ],
+  "malamar": [],
+  "mamoswine": [],
+  "manaphy": [],
+  "mandibuzz": [],
+  "manectric": [],
+  "manectricmega": [],
+  "mankey": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "primeape",
+      "trigger": "level"
+    }
+  ],
+  "mantine": [],
+  "mantyke": [
+    {
+      "conditions": {
+        "level": 0,
+        "pokemon": "remoraid"
+      },
+      "forme": null,
+      "species": "mantine",
+      "trigger": "level"
+    }
+  ],
+  "maractus": [],
+  "mareanie": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "toxapex",
+      "trigger": "level"
+    }
+  ],
+  "mareep": [
+    {
+      "conditions": {
+        "level": 15
+      },
+      "forme": null,
+      "species": "flaaffy",
+      "trigger": "level"
+    }
+  ],
+  "marill": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "azumarill",
+      "trigger": "level"
+    }
+  ],
+  "marowak": [],
+  "marowakalola": [],
+  "marshadow": [],
+  "marshtomp": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "swampert",
+      "trigger": "level"
+    }
+  ],
+  "masquerain": [],
+  "mawile": [],
+  "mawilemega": [],
+  "medicham": [],
+  "medichammega": [],
+  "meditite": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "medicham",
+      "trigger": "level"
+    }
+  ],
+  "meganium": [],
+  "meloetta": [],
+  "meloettapirouette": [],
+  "meowstic": [],
+  "meowsticf": [],
+  "meowth": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "persian",
+      "trigger": "level"
+    }
+  ],
+  "meowthalola": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": "persianalola",
+      "species": "persian",
+      "trigger": "level"
+    }
+  ],
+  "mesprit": [],
+  "metagross": [],
+  "metagrossmega": [],
+  "metang": [
+    {
+      "conditions": {
+        "level": 45
+      },
+      "forme": null,
+      "species": "metagross",
+      "trigger": "level"
+    }
+  ],
+  "metapod": [
+    {
+      "conditions": {
+        "level": 10
+      },
+      "forme": null,
+      "species": "butterfree",
+      "trigger": "level"
+    }
+  ],
+  "mew": [],
+  "mewtwo": [],
+  "mewtwomegax": [],
+  "mewtwomegay": [],
+  "mienfoo": [
+    {
+      "conditions": {
+        "level": 50
+      },
+      "forme": null,
+      "species": "mienshao",
+      "trigger": "level"
+    }
+  ],
+  "mienshao": [],
+  "mightyena": [],
+  "milotic": [],
+  "miltank": [],
+  "mimejr": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "mimic"
+      },
+      "forme": null,
+      "species": "mrmime",
+      "trigger": "level"
+    }
+  ],
+  "mimikyu": [],
+  "mimikyubusted": [],
+  "minccino": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": null,
+      "species": "cinccino",
+      "trigger": "item"
+    }
+  ],
+  "minior": [],
+  "miniormeteor": [],
+  "minun": [],
+  "misdreavus": [
+    {
+      "conditions": {
+        "item": "duskstone"
+      },
+      "forme": null,
+      "species": "mismagius",
+      "trigger": "item"
+    }
+  ],
+  "mismagius": [],
+  "moltres": [],
+  "monferno": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "infernape",
+      "trigger": "level"
+    }
+  ],
+  "morelull": [
+    {
+      "conditions": {
+        "level": 24
+      },
+      "forme": null,
+      "species": "shiinotic",
+      "trigger": "level"
+    }
+  ],
+  "mothim": [],
+  "mrmime": [],
+  "mudbray": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "mudsdale",
+      "trigger": "level"
+    }
+  ],
+  "mudkip": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "marshtomp",
+      "trigger": "level"
+    }
+  ],
+  "mudsdale": [],
+  "muk": [],
+  "mukalola": [],
+  "munchlax": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "snorlax",
+      "trigger": "level"
+    }
+  ],
+  "munna": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "musharna",
+      "trigger": "item"
+    }
+  ],
+  "murkrow": [
+    {
+      "conditions": {
+        "item": "duskstone"
+      },
+      "forme": null,
+      "species": "honchkrow",
+      "trigger": "item"
+    }
+  ],
+  "musharna": [],
+  "natu": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "xatu",
+      "trigger": "level"
+    }
+  ],
+  "necrozma": [],
+  "nidoking": [],
+  "nidoqueen": [],
+  "nidoranf": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "nidorina",
+      "trigger": "level"
+    }
+  ],
+  "nidoranm": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "nidorino",
+      "trigger": "level"
+    }
+  ],
+  "nidorina": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "nidoqueen",
+      "trigger": "item"
+    }
+  ],
+  "nidorino": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "nidoking",
+      "trigger": "item"
+    }
+  ],
+  "nihilego": [],
+  "nincada": [
+    {
+      "conditions": {
+        "level": 20,
+        "special": "ninjask"
+      },
+      "forme": null,
+      "species": "ninjask",
+      "trigger": "level"
+    }
+  ],
+  "ninetales": [],
+  "ninetalesalola": [],
+  "ninjask": [],
+  "noctowl": [],
+  "noibat": [
+    {
+      "conditions": {
+        "level": 48
+      },
+      "forme": null,
+      "species": "noivern",
+      "trigger": "level"
+    }
+  ],
+  "noivern": [],
+  "nosepass": [
+    {
+      "conditions": {
+        "level": 0,
+        "location": "magneticfield"
+      },
+      "forme": null,
+      "species": "probopass",
+      "trigger": "level"
+    }
+  ],
+  "numel": [
+    {
+      "conditions": {
+        "level": 33
+      },
+      "forme": null,
+      "species": "camerupt",
+      "trigger": "level"
+    }
+  ],
+  "nuzleaf": [
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": null,
+      "species": "shiftry",
+      "trigger": "item"
+    }
+  ],
+  "octillery": [],
+  "oddish": [
+    {
+      "conditions": {
+        "level": 21
+      },
+      "forme": null,
+      "species": "gloom",
+      "trigger": "level"
+    }
+  ],
+  "omanyte": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "omastar",
+      "trigger": "level"
+    }
+  ],
+  "omastar": [],
+  "onix": [
+    {
+      "conditions": {
+        "item": "metalcoat"
+      },
+      "forme": null,
+      "species": "steelix",
+      "trigger": "trade"
+    }
+  ],
+  "oranguru": [],
+  "oricorio": [],
+  "oricoriopau": [],
+  "oricoriopompom": [],
+  "oricoriosensu": [],
+  "oshawott": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "dewott",
+      "trigger": "level"
+    }
+  ],
+  "pachirisu": [],
+  "palkia": [],
+  "palossand": [],
+  "palpitoad": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "seismitoad",
+      "trigger": "level"
+    }
+  ],
+  "pancham": [
+    {
+      "conditions": {
+        "level": 32,
+        "pokemontype": "dark"
+      },
+      "forme": null,
+      "species": "pangoro",
+      "trigger": "level"
+    }
+  ],
+  "pangoro": [],
+  "panpour": [
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "simipour",
+      "trigger": "item"
+    }
+  ],
+  "pansage": [
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": null,
+      "species": "simisage",
+      "trigger": "item"
+    }
+  ],
+  "pansear": [
+    {
+      "conditions": {
+        "item": "firestone"
+      },
+      "forme": null,
+      "species": "simisear",
+      "trigger": "item"
+    }
+  ],
+  "paras": [
+    {
+      "conditions": {
+        "level": 24
+      },
+      "forme": null,
+      "species": "parasect",
+      "trigger": "level"
+    }
+  ],
+  "parasect": [],
+  "passimian": [],
+  "patrat": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "watchog",
+      "trigger": "level"
+    }
+  ],
+  "pawniard": [
+    {
+      "conditions": {
+        "level": 52
+      },
+      "forme": null,
+      "species": "bisharp",
+      "trigger": "level"
+    }
+  ],
+  "pelipper": [],
+  "persian": [],
+  "persianalola": [],
+  "petilil": [
+    {
+      "conditions": {
+        "item": "sunstone"
+      },
+      "forme": null,
+      "species": "lilligant",
+      "trigger": "item"
+    }
+  ],
+  "phanpy": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "donphan",
+      "trigger": "level"
+    }
+  ],
+  "phantump": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "trevenant",
+      "trigger": "trade"
+    }
+  ],
+  "pheromosa": [],
+  "phione": [],
+  "pichu": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "pikachu",
+      "trigger": "level"
+    }
+  ],
+  "pidgeot": [],
+  "pidgeotmega": [],
+  "pidgeotto": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "pidgeot",
+      "trigger": "level"
+    }
+  ],
+  "pidgey": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "pidgeotto",
+      "trigger": "level"
+    }
+  ],
+  "pidove": [
+    {
+      "conditions": {
+        "level": 21
+      },
+      "forme": null,
+      "species": "tranquill",
+      "trigger": "level"
+    }
+  ],
+  "pignite": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "emboar",
+      "trigger": "level"
+    }
+  ],
+  "pikachu": [
+    {
+      "conditions": {
+        "item": "thunderstone"
+      },
+      "forme": "raichualola",
+      "species": "raichu",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "thunderstone"
+      },
+      "forme": null,
+      "species": "raichu",
+      "trigger": "item"
+    }
+  ],
+  "pikipek": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "trumbeak",
+      "trigger": "level"
+    }
+  ],
+  "piloswine": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "ancientpower"
+      },
+      "forme": null,
+      "species": "mamoswine",
+      "trigger": "level"
+    }
+  ],
+  "pineco": [
+    {
+      "conditions": {
+        "level": 31
+      },
+      "forme": null,
+      "species": "forretress",
+      "trigger": "level"
+    }
+  ],
+  "pinsir": [],
+  "pinsirmega": [],
+  "piplup": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "prinplup",
+      "trigger": "level"
+    }
+  ],
+  "plusle": [],
+  "politoed": [],
+  "poliwag": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "poliwhirl",
+      "trigger": "level"
+    }
+  ],
+  "poliwhirl": [
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "poliwrath",
+      "trigger": "item"
+    },
+    {
+      "conditions": {
+        "item": "kingsrock"
+      },
+      "forme": null,
+      "species": "politoed",
+      "trigger": "trade"
+    }
+  ],
+  "poliwrath": [],
+  "ponyta": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "rapidash",
+      "trigger": "level"
+    }
+  ],
+  "poochyena": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "mightyena",
+      "trigger": "level"
+    }
+  ],
+  "popplio": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "brionne",
+      "trigger": "level"
+    }
+  ],
+  "porygon": [
+    {
+      "conditions": {
+        "item": "upgrade"
+      },
+      "forme": null,
+      "species": "porygon2",
+      "trigger": "trade"
+    }
+  ],
+  "porygon2": [
+    {
+      "conditions": {
+        "item": "dubiousdisc"
+      },
+      "forme": null,
+      "species": "porygonz",
+      "trigger": "trade"
+    }
+  ],
+  "porygonz": [],
+  "primarina": [],
+  "primeape": [],
+  "prinplup": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "empoleon",
+      "trigger": "level"
+    }
+  ],
+  "probopass": [],
+  "psyduck": [
+    {
+      "conditions": {
+        "level": 33
+      },
+      "forme": null,
+      "species": "golduck",
+      "trigger": "level"
+    }
+  ],
+  "pumpkaboo": [
+    {
+      "conditions": {},
+      "forme": null,
+      "species": "gourgeist",
+      "trigger": "trade"
+    }
+  ],
+  "pumpkaboolarge": [
+    {
+      "conditions": {},
+      "forme": "gourgeistlarge",
+      "species": "gourgeist",
+      "trigger": "trade"
+    }
+  ],
+  "pumpkaboosmall": [
+    {
+      "conditions": {},
+      "forme": "gourgeistsmall",
+      "species": "gourgeist",
+      "trigger": "trade"
+    }
+  ],
+  "pumpkaboosuper": [
+    {
+      "conditions": {},
+      "forme": "gourgeistsuper",
+      "species": "gourgeist",
+      "trigger": "trade"
+    }
+  ],
+  "pupitar": [
+    {
+      "conditions": {
+        "level": 55
+      },
+      "forme": null,
+      "species": "tyranitar",
+      "trigger": "level"
+    }
+  ],
+  "purrloin": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "liepard",
+      "trigger": "level"
+    }
+  ],
+  "purugly": [],
+  "pyroar": [],
+  "pyukumuku": [],
+  "quagsire": [],
+  "quilava": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "typhlosion",
+      "trigger": "level"
+    }
+  ],
+  "quilladin": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "chesnaught",
+      "trigger": "level"
+    }
+  ],
+  "qwilfish": [],
+  "raichu": [],
+  "raichualola": [],
+  "raikou": [],
+  "ralts": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "kirlia",
+      "trigger": "level"
+    }
+  ],
+  "rampardos": [],
+  "rapidash": [],
+  "raticate": [],
+  "raticatealola": [],
+  "rattata": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "raticate",
+      "trigger": "level"
+    }
+  ],
+  "rattataalola": [
+    {
+      "conditions": {
+        "level": 20,
+        "time": "night"
+      },
+      "forme": "raticatealola",
+      "species": "raticate",
+      "trigger": "level"
+    }
+  ],
+  "rayquaza": [],
+  "rayquazamega": [],
+  "regice": [],
+  "regigigas": [],
+  "regirock": [],
+  "registeel": [],
+  "relicanth": [],
+  "remoraid": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "octillery",
+      "trigger": "level"
+    }
+  ],
+  "reshiram": [],
+  "reuniclus": [],
+  "rhydon": [
+    {
+      "conditions": {
+        "item": "protector"
+      },
+      "forme": null,
+      "species": "rhyperior",
+      "trigger": "trade"
+    }
+  ],
+  "rhyhorn": [
+    {
+      "conditions": {
+        "level": 42
+      },
+      "forme": null,
+      "species": "rhydon",
+      "trigger": "level"
+    }
+  ],
+  "rhyperior": [],
+  "ribombee": [],
+  "riolu": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "lucario",
+      "trigger": "level"
+    }
+  ],
+  "rockruff": [
+    {
+      "conditions": {
+        "level": 25,
+        "time": "day",
+        "version": "sun"
+      },
+      "forme": null,
+      "species": "lycanroc",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 25,
+        "time": "night",
+        "version": "moon"
+      },
+      "forme": "lycanrocmidnight",
+      "species": "lycanroc",
+      "trigger": "level"
+    }
+  ],
+  "roggenrola": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "boldore",
+      "trigger": "level"
+    }
+  ],
+  "roselia": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": null,
+      "species": "roserade",
+      "trigger": "item"
+    }
+  ],
+  "roserade": [],
+  "rotom": [],
+  "rotomfan": [],
+  "rotomfrost": [],
+  "rotomheat": [],
+  "rotommow": [],
+  "rotomwash": [],
+  "rowlet": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "dartrix",
+      "trigger": "level"
+    }
+  ],
+  "rufflet": [
+    {
+      "conditions": {
+        "level": 54
+      },
+      "forme": null,
+      "species": "braviary",
+      "trigger": "level"
+    }
+  ],
+  "sableye": [],
+  "sableyemega": [],
+  "salamence": [],
+  "salamencemega": [],
+  "salandit": [
+    {
+      "conditions": {
+        "gender": "female",
+        "level": 33
+      },
+      "forme": null,
+      "species": "salazzle",
+      "trigger": "level"
+    }
+  ],
+  "salazzle": [],
+  "samurott": [],
+  "sandile": [
+    {
+      "conditions": {
+        "level": 29
+      },
+      "forme": null,
+      "species": "krokorok",
+      "trigger": "level"
+    }
+  ],
+  "sandshrew": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "sandslash",
+      "trigger": "level"
+    }
+  ],
+  "sandshrewalola": [
+    {
+      "conditions": {
+        "item": "icestone"
+      },
+      "forme": "sandslashalola",
+      "species": "sandslash",
+      "trigger": "item"
+    }
+  ],
+  "sandslash": [],
+  "sandslashalola": [],
+  "sandygast": [
+    {
+      "conditions": {
+        "level": 42
+      },
+      "forme": null,
+      "species": "palossand",
+      "trigger": "level"
+    }
+  ],
+  "sawk": [],
+  "sawsbuck": [],
+  "sawsbuckautumn": [],
+  "sawsbucksummer": [],
+  "sawsbuckwinter": [],
+  "scatterbug": [
+    {
+      "conditions": {
+        "level": 9
+      },
+      "forme": null,
+      "species": "spewpa",
+      "trigger": "level"
+    }
+  ],
+  "sceptile": [],
+  "sceptilemega": [],
+  "scizor": [],
+  "scizormega": [],
+  "scolipede": [],
+  "scrafty": [],
+  "scraggy": [
+    {
+      "conditions": {
+        "level": 39
+      },
+      "forme": null,
+      "species": "scrafty",
+      "trigger": "level"
+    }
+  ],
+  "scyther": [
+    {
+      "conditions": {
+        "item": "metalcoat"
+      },
+      "forme": null,
+      "species": "scizor",
+      "trigger": "trade"
+    }
+  ],
+  "seadra": [
+    {
+      "conditions": {
+        "item": "dragonscale"
+      },
+      "forme": null,
+      "species": "kingdra",
+      "trigger": "trade"
+    }
+  ],
+  "seaking": [],
+  "sealeo": [
+    {
+      "conditions": {
+        "level": 44
+      },
+      "forme": null,
+      "species": "walrein",
+      "trigger": "level"
+    }
+  ],
+  "seedot": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "nuzleaf",
+      "trigger": "level"
+    }
+  ],
+  "seel": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "dewgong",
+      "trigger": "level"
+    }
+  ],
+  "seismitoad": [],
+  "sentret": [
+    {
+      "conditions": {
+        "level": 15
+      },
+      "forme": null,
+      "species": "furret",
+      "trigger": "level"
+    }
+  ],
+  "serperior": [],
+  "servine": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "serperior",
+      "trigger": "level"
+    }
+  ],
+  "seviper": [],
+  "sewaddle": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "swadloon",
+      "trigger": "level"
+    }
+  ],
+  "sharpedo": [],
+  "sharpedomega": [],
+  "shaymin": [],
+  "shayminsky": [],
+  "shedinja": [],
+  "shelgon": [
+    {
+      "conditions": {
+        "level": 50
+      },
+      "forme": null,
+      "species": "salamence",
+      "trigger": "level"
+    }
+  ],
+  "shellder": [
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "cloyster",
+      "trigger": "item"
+    }
+  ],
+  "shellos": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "gastrodon",
+      "trigger": "level"
+    }
+  ],
+  "shelloseast": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": "gastrodoneast",
+      "species": "gastrodon",
+      "trigger": "level"
+    }
+  ],
+  "shelmet": [
+    {
+      "conditions": {
+        "swap": [
+          "shelmet",
+          "karrablast"
+        ]
+      },
+      "forme": null,
+      "species": "accelgor",
+      "trigger": "trade"
+    }
+  ],
+  "shieldon": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "bastiodon",
+      "trigger": "level"
+    }
+  ],
+  "shiftry": [],
+  "shiinotic": [],
+  "shinx": [
+    {
+      "conditions": {
+        "level": 15
+      },
+      "forme": null,
+      "species": "luxio",
+      "trigger": "level"
+    }
+  ],
+  "shroomish": [
+    {
+      "conditions": {
+        "level": 23
+      },
+      "forme": null,
+      "species": "breloom",
+      "trigger": "level"
+    }
+  ],
+  "shuckle": [],
+  "shuppet": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "banette",
+      "trigger": "level"
+    }
+  ],
+  "sigilyph": [],
+  "silcoon": [
+    {
+      "conditions": {
+        "level": 10
+      },
+      "forme": null,
+      "species": "beautifly",
+      "trigger": "level"
+    }
+  ],
+  "silvally": [],
+  "silvallybug": [],
+  "silvallydark": [],
+  "silvallydragon": [],
+  "silvallyelectric": [],
+  "silvallyfairy": [],
+  "silvallyfighting": [],
+  "silvallyfire": [],
+  "silvallyflying": [],
+  "silvallyghost": [],
+  "silvallygrass": [],
+  "silvallyground": [],
+  "silvallyice": [],
+  "silvallypoison": [],
+  "silvallypsychic": [],
+  "silvallyrock": [],
+  "silvallysteel": [],
+  "silvallywater": [],
+  "simipour": [],
+  "simisage": [],
+  "simisear": [],
+  "skarmory": [],
+  "skiddo": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "gogoat",
+      "trigger": "level"
+    }
+  ],
+  "skiploom": [
+    {
+      "conditions": {
+        "level": 27
+      },
+      "forme": null,
+      "species": "jumpluff",
+      "trigger": "level"
+    }
+  ],
+  "skitty": [
+    {
+      "conditions": {
+        "item": "moonstone"
+      },
+      "forme": null,
+      "species": "delcatty",
+      "trigger": "item"
+    }
+  ],
+  "skorupi": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "drapion",
+      "trigger": "level"
+    }
+  ],
+  "skrelp": [
+    {
+      "conditions": {
+        "level": 48
+      },
+      "forme": null,
+      "species": "dragalge",
+      "trigger": "level"
+    }
+  ],
+  "skuntank": [],
+  "slaking": [],
+  "slakoth": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "vigoroth",
+      "trigger": "level"
+    }
+  ],
+  "sliggoo": [
+    {
+      "conditions": {
+        "level": 50,
+        "weather": "rain"
+      },
+      "forme": null,
+      "species": "goodra",
+      "trigger": "level"
+    }
+  ],
+  "slowbro": [],
+  "slowbromega": [],
+  "slowking": [],
+  "slowpoke": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "slowbro",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "item": "kingsrock"
+      },
+      "forme": null,
+      "species": "slowking",
+      "trigger": "trade"
+    }
+  ],
+  "slugma": [
+    {
+      "conditions": {
+        "level": 38
+      },
+      "forme": null,
+      "species": "magcargo",
+      "trigger": "level"
+    }
+  ],
+  "slurpuff": [],
+  "smeargle": [],
+  "smoochum": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "jynx",
+      "trigger": "level"
+    }
+  ],
+  "sneasel": [
+    {
+      "conditions": {
+        "item": "razorclaw",
+        "level": 0,
+        "time": "night"
+      },
+      "forme": null,
+      "species": "weavile",
+      "trigger": "level"
+    }
+  ],
+  "snivy": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "servine",
+      "trigger": "level"
+    }
+  ],
+  "snorlax": [],
+  "snorunt": [
+    {
+      "conditions": {
+        "level": 42
+      },
+      "forme": null,
+      "species": "glalie",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "gender": "female",
+        "item": "dawnstone"
+      },
+      "forme": null,
+      "species": "froslass",
+      "trigger": "item"
+    }
+  ],
+  "snover": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "abomasnow",
+      "trigger": "level"
+    }
+  ],
+  "snubbull": [
+    {
+      "conditions": {
+        "level": 23
+      },
+      "forme": null,
+      "species": "granbull",
+      "trigger": "level"
+    }
+  ],
+  "solgaleo": [],
+  "solosis": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "duosion",
+      "trigger": "level"
+    }
+  ],
+  "solrock": [],
+  "spearow": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "fearow",
+      "trigger": "level"
+    }
+  ],
+  "spewpa": [
+    {
+      "conditions": {
+        "level": 12
+      },
+      "forme": null,
+      "species": "vivillon",
+      "trigger": "level"
+    }
+  ],
+  "spheal": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "sealeo",
+      "trigger": "level"
+    }
+  ],
+  "spinarak": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "ariados",
+      "trigger": "level"
+    }
+  ],
+  "spinda": [],
+  "spiritomb": [],
+  "spoink": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "grumpig",
+      "trigger": "level"
+    }
+  ],
+  "spritzee": [
+    {
+      "conditions": {
+        "item": "sachet"
+      },
+      "forme": null,
+      "species": "aromatisse",
+      "trigger": "trade"
+    }
+  ],
+  "squirtle": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "wartortle",
+      "trigger": "level"
+    }
+  ],
+  "stantler": [],
+  "staraptor": [],
+  "staravia": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "staraptor",
+      "trigger": "level"
+    }
+  ],
+  "starly": [
+    {
+      "conditions": {
+        "level": 14
+      },
+      "forme": null,
+      "species": "staravia",
+      "trigger": "level"
+    }
+  ],
+  "starmie": [],
+  "staryu": [
+    {
+      "conditions": {
+        "item": "waterstone"
+      },
+      "forme": null,
+      "species": "starmie",
+      "trigger": "item"
+    }
+  ],
+  "steelix": [],
+  "steelixmega": [],
+  "steenee": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "stomp"
+      },
+      "forme": null,
+      "species": "tsareena",
+      "trigger": "level"
+    }
+  ],
+  "stoutland": [],
+  "stufful": [
+    {
+      "conditions": {
+        "level": 27
+      },
+      "forme": null,
+      "species": "bewear",
+      "trigger": "level"
+    }
+  ],
+  "stunfisk": [],
+  "stunky": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "skuntank",
+      "trigger": "level"
+    }
+  ],
+  "sudowoodo": [],
+  "suicune": [],
+  "sunflora": [],
+  "sunkern": [
+    {
+      "conditions": {
+        "item": "sunstone"
+      },
+      "forme": null,
+      "species": "sunflora",
+      "trigger": "item"
+    }
+  ],
+  "surskit": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "masquerain",
+      "trigger": "level"
+    }
+  ],
+  "swablu": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "altaria",
+      "trigger": "level"
+    }
+  ],
+  "swadloon": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "leavanny",
+      "trigger": "level"
+    }
+  ],
+  "swalot": [],
+  "swampert": [],
+  "swampertmega": [],
+  "swanna": [],
+  "swellow": [],
+  "swinub": [
+    {
+      "conditions": {
+        "level": 33
+      },
+      "forme": null,
+      "species": "piloswine",
+      "trigger": "level"
+    }
+  ],
+  "swirlix": [
+    {
+      "conditions": {
+        "item": "whippeddream"
+      },
+      "forme": null,
+      "species": "slurpuff",
+      "trigger": "trade"
+    }
+  ],
+  "swoobat": [],
+  "sylveon": [],
+  "taillow": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "swellow",
+      "trigger": "level"
+    }
+  ],
+  "talonflame": [],
+  "tangela": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "ancientpower"
+      },
+      "forme": null,
+      "species": "tangrowth",
+      "trigger": "level"
+    }
+  ],
+  "tangrowth": [],
+  "tapubulu": [],
+  "tapufini": [],
+  "tapukoko": [],
+  "tapulele": [],
+  "tauros": [],
+  "teddiursa": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "ursaring",
+      "trigger": "level"
+    }
+  ],
+  "tentacool": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "tentacruel",
+      "trigger": "level"
+    }
+  ],
+  "tentacruel": [],
+  "tepig": [
+    {
+      "conditions": {
+        "level": 17
+      },
+      "forme": null,
+      "species": "pignite",
+      "trigger": "level"
+    }
+  ],
+  "terrakion": [],
+  "throh": [],
+  "thundurus": [],
+  "thundurustherian": [],
+  "timburr": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "gurdurr",
+      "trigger": "level"
+    }
+  ],
+  "tirtouga": [
+    {
+      "conditions": {
+        "level": 37
+      },
+      "forme": null,
+      "species": "carracosta",
+      "trigger": "level"
+    }
+  ],
+  "togedemaru": [],
+  "togekiss": [],
+  "togepi": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "togetic",
+      "trigger": "level"
+    }
+  ],
+  "togetic": [
+    {
+      "conditions": {
+        "item": "shinystone"
+      },
+      "forme": null,
+      "species": "togekiss",
+      "trigger": "item"
+    }
+  ],
+  "torchic": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "combusken",
+      "trigger": "level"
+    }
+  ],
+  "torkoal": [],
+  "tornadus": [],
+  "tornadustherian": [],
+  "torracat": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "incineroar",
+      "trigger": "level"
+    }
+  ],
+  "torterra": [],
+  "totodile": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "croconaw",
+      "trigger": "level"
+    }
+  ],
+  "toucannon": [],
+  "toxapex": [],
+  "toxicroak": [],
+  "tranquill": [
+    {
+      "conditions": {
+        "level": 32
+      },
+      "forme": null,
+      "species": "unfezant",
+      "trigger": "level"
+    }
+  ],
+  "trapinch": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "vibrava",
+      "trigger": "level"
+    }
+  ],
+  "treecko": [
+    {
+      "conditions": {
+        "level": 16
+      },
+      "forme": null,
+      "species": "grovyle",
+      "trigger": "level"
+    }
+  ],
+  "trevenant": [],
+  "tropius": [],
+  "trubbish": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "garbodor",
+      "trigger": "level"
+    }
+  ],
+  "trumbeak": [
+    {
+      "conditions": {
+        "level": 28
+      },
+      "forme": null,
+      "species": "toucannon",
+      "trigger": "level"
+    }
+  ],
+  "tsareena": [],
+  "turtonator": [],
+  "turtwig": [
+    {
+      "conditions": {
+        "level": 18
+      },
+      "forme": null,
+      "species": "grotle",
+      "trigger": "level"
+    }
+  ],
+  "tympole": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "palpitoad",
+      "trigger": "level"
+    }
+  ],
+  "tynamo": [
+    {
+      "conditions": {
+        "level": 39
+      },
+      "forme": null,
+      "species": "eelektrik",
+      "trigger": "level"
+    }
+  ],
+  "typenull": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "silvally",
+      "trigger": "level"
+    }
+  ],
+  "typhlosion": [],
+  "tyranitar": [],
+  "tyranitarmega": [],
+  "tyrantrum": [],
+  "tyrogue": [
+    {
+      "conditions": {
+        "level": 20,
+        "stats": {
+          "lhs": "atk",
+          "operator": "<",
+          "rhs": "def"
+        }
+      },
+      "forme": null,
+      "species": "hitmonchan",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 20,
+        "stats": {
+          "lhs": "atk",
+          "operator": ">",
+          "rhs": "def"
+        }
+      },
+      "forme": null,
+      "species": "hitmonlee",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 20,
+        "stats": {
+          "lhs": "atk",
+          "operator": "=",
+          "rhs": "def"
+        }
+      },
+      "forme": null,
+      "species": "hitmontop",
+      "trigger": "level"
+    }
+  ],
+  "tyrunt": [
+    {
+      "conditions": {
+        "level": 39,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "tyrantrum",
+      "trigger": "level"
+    }
+  ],
+  "umbreon": [],
+  "unfezant": [],
+  "unown": [],
+  "unownb": [],
+  "unownc": [],
+  "unownd": [],
+  "unowne": [],
+  "unownexclaim": [],
+  "unownf": [],
+  "unowng": [],
+  "unownh": [],
+  "unowni": [],
+  "unownj": [],
+  "unownk": [],
+  "unownl": [],
+  "unownm": [],
+  "unownn": [],
+  "unowno": [],
+  "unownp": [],
+  "unownq": [],
+  "unownquestion": [],
+  "unownr": [],
+  "unowns": [],
+  "unownt": [],
+  "unownu": [],
+  "unownv": [],
+  "unownw": [],
+  "unownx": [],
+  "unowny": [],
+  "unownz": [],
+  "ursaring": [],
+  "uxie": [],
+  "vanillish": [
+    {
+      "conditions": {
+        "level": 47
+      },
+      "forme": null,
+      "species": "vanilluxe",
+      "trigger": "level"
+    }
+  ],
+  "vanillite": [
+    {
+      "conditions": {
+        "level": 35
+      },
+      "forme": null,
+      "species": "vanillish",
+      "trigger": "level"
+    }
+  ],
+  "vanilluxe": [],
+  "vaporeon": [],
+  "venipede": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "whirlipede",
+      "trigger": "level"
+    }
+  ],
+  "venomoth": [],
+  "venonat": [
+    {
+      "conditions": {
+        "level": 31
+      },
+      "forme": null,
+      "species": "venomoth",
+      "trigger": "level"
+    }
+  ],
+  "venusaur": [],
+  "venusaurmega": [],
+  "vespiquen": [],
+  "vibrava": [
+    {
+      "conditions": {
+        "level": 45
+      },
+      "forme": null,
+      "species": "flygon",
+      "trigger": "level"
+    }
+  ],
+  "victini": [],
+  "victreebel": [],
+  "vigoroth": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "slaking",
+      "trigger": "level"
+    }
+  ],
+  "vikavolt": [],
+  "vileplume": [],
+  "virizion": [],
+  "vivillon": [],
+  "vivillonarchipelago": [],
+  "vivilloncontinental": [],
+  "vivillonelegant": [],
+  "vivillonfancy": [],
+  "vivillongarden": [],
+  "vivillonhighplains": [],
+  "vivillonjungle": [],
+  "vivillonmarine": [],
+  "vivillonmeadow": [],
+  "vivillonmodern": [],
+  "vivillonmonsoon": [],
+  "vivillonocean": [],
+  "vivillonpokeball": [],
+  "vivillonpolar": [],
+  "vivillonriver": [],
+  "vivillonsandstorm": [],
+  "vivillonsavanna": [],
+  "vivillonsun": [],
+  "vivillontundra": [],
+  "volbeat": [],
+  "volcanion": [],
+  "volcarona": [],
+  "voltorb": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "electrode",
+      "trigger": "level"
+    }
+  ],
+  "vullaby": [
+    {
+      "conditions": {
+        "level": 54
+      },
+      "forme": null,
+      "species": "mandibuzz",
+      "trigger": "level"
+    }
+  ],
+  "vulpix": [
+    {
+      "conditions": {
+        "item": "firestone"
+      },
+      "forme": null,
+      "species": "ninetales",
+      "trigger": "item"
+    }
+  ],
+  "vulpixalola": [
+    {
+      "conditions": {
+        "item": "icestone"
+      },
+      "forme": "ninetalesalola",
+      "species": "ninetales",
+      "trigger": "item"
+    }
+  ],
+  "wailmer": [
+    {
+      "conditions": {
+        "level": 40
+      },
+      "forme": null,
+      "species": "wailord",
+      "trigger": "level"
+    }
+  ],
+  "wailord": [],
+  "walrein": [],
+  "wartortle": [
+    {
+      "conditions": {
+        "level": 36
+      },
+      "forme": null,
+      "species": "blastoise",
+      "trigger": "level"
+    }
+  ],
+  "watchog": [],
+  "weavile": [],
+  "weedle": [
+    {
+      "conditions": {
+        "level": 7
+      },
+      "forme": null,
+      "species": "kakuna",
+      "trigger": "level"
+    }
+  ],
+  "weepinbell": [
+    {
+      "conditions": {
+        "item": "leafstone"
+      },
+      "forme": null,
+      "species": "victreebel",
+      "trigger": "item"
+    }
+  ],
+  "weezing": [],
+  "whimsicott": [],
+  "whirlipede": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "scolipede",
+      "trigger": "level"
+    }
+  ],
+  "whiscash": [],
+  "whismur": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "loudred",
+      "trigger": "level"
+    }
+  ],
+  "wigglytuff": [],
+  "wimpod": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "golisopod",
+      "trigger": "level"
+    }
+  ],
+  "wingull": [
+    {
+      "conditions": {
+        "level": 25
+      },
+      "forme": null,
+      "species": "pelipper",
+      "trigger": "level"
+    }
+  ],
+  "wishiwashi": [],
+  "wishiwashischool": [],
+  "wobbuffet": [],
+  "woobat": [
+    {
+      "conditions": {
+        "friendship": 220,
+        "level": 0
+      },
+      "forme": null,
+      "species": "swoobat",
+      "trigger": "level"
+    }
+  ],
+  "wooper": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "quagsire",
+      "trigger": "level"
+    }
+  ],
+  "wormadam": [],
+  "wormadamsandy": [],
+  "wormadamtrash": [],
+  "wurmple": [
+    {
+      "conditions": {
+        "level": 7,
+        "special": "silcoon"
+      },
+      "forme": null,
+      "species": "silcoon",
+      "trigger": "level"
+    },
+    {
+      "conditions": {
+        "level": 7,
+        "special": "cascoon"
+      },
+      "forme": null,
+      "species": "cascoon",
+      "trigger": "level"
+    }
+  ],
+  "wynaut": [
+    {
+      "conditions": {
+        "level": 15
+      },
+      "forme": null,
+      "species": "wobbuffet",
+      "trigger": "level"
+    }
+  ],
+  "xatu": [],
+  "xerneas": [],
+  "xurkitree": [],
+  "yamask": [
+    {
+      "conditions": {
+        "level": 34
+      },
+      "forme": null,
+      "species": "cofagrigus",
+      "trigger": "level"
+    }
+  ],
+  "yanma": [
+    {
+      "conditions": {
+        "level": 0,
+        "move": "ancientpower"
+      },
+      "forme": null,
+      "species": "yanmega",
+      "trigger": "level"
+    }
+  ],
+  "yanmega": [],
+  "yungoos": [
+    {
+      "conditions": {
+        "level": 20,
+        "time": "day"
+      },
+      "forme": null,
+      "species": "gumshoos",
+      "trigger": "level"
+    }
+  ],
+  "yveltal": [],
+  "zangoose": [],
+  "zapdos": [],
+  "zebstrika": [],
+  "zekrom": [],
+  "zigzagoon": [
+    {
+      "conditions": {
+        "level": 20
+      },
+      "forme": null,
+      "species": "linoone",
+      "trigger": "level"
+    }
+  ],
+  "zoroark": [],
+  "zorua": [
+    {
+      "conditions": {
+        "level": 30
+      },
+      "forme": null,
+      "species": "zoroark",
+      "trigger": "level"
+    }
+  ],
+  "zubat": [
+    {
+      "conditions": {
+        "level": 22
+      },
+      "forme": null,
+      "species": "golbat",
+      "trigger": "level"
+    }
+  ],
+  "zweilous": [
+    {
+      "conditions": {
+        "level": 64
+      },
+      "forme": null,
+      "species": "hydreigon",
+      "trigger": "level"
+    }
+  ],
+  "zygarde": [],
+  "zygarde10": [],
+  "zygardecomplete": []
+}
